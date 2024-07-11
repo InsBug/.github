@@ -2,7 +2,7 @@
 
 InsBug is a group of crew who focus on software security or code security, we made a lot of contributes to code security review and software develeopment lifecycle of security, such as consulting, pentesting and training.
 
-Also, we'd like to test kinds of security devices or systems to compare their capacities, and give professinal advances to the vendors like Huawei, Tencent etc.
+Also, we'd like to test and assess kinds of security devices or systems to compare their capacities with assessment baseline, and give professinal advances to the vendors like Huawei, Tencent etc.
 
 ## Follow Us
 
